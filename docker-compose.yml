@@ -1,0 +1,12 @@
+services:
+  mlflow-ui:
+    image: python:3.11-slim
+    container_name: mlflow_server
+    platform: linux/arm64
+    ports:
+      - "5050:5000"
+    volumes:
+      - .:/mlflow_data
+    working_dir: /mlflow_data
+    command: >
+      sh -c "pip install mlflow && mlflow ui --host 0.0.0.0 --port 5000 --backend-store-uri file:///mlflow_data/mlruns"
