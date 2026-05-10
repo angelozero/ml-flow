@@ -1,0 +1,65 @@
+Manual de Operações ConnectMax Telecom - Versão 2026.2
+
+1. Dados de Faturamento e Cobrança
+A ConnectMax Telecom estabelece que o ciclo de faturamento ocorre mensalmente, com vencimentos disponíveis nos dias 05, 10, 15 e 20 de cada mês. Atualmente, o sistema registra que o cliente Angelo possui uma fatura pendente no valor de R$ 350,00, com vencimento original em 05/05/2026. Caso o pagamento não seja identificado até a data limite, aplicam-se as seguintes penalidades:
+Multa por atraso: Valor fixo de 2% sobre o montante total devido.
+Juros de mora: Taxa de 1% ao mês, calculada pro rata die.
+Suspensão parcial: Ocorre após 15 dias de inadimplência, reduzindo a velocidade para 1Mbps.
+Suspensão total: Após 30 dias de atraso, o sinal é interrompido completamente.
+
+2. Catálogo de Planos e Preços
+A infraestrutura da ConnectMax é 100% fibra óptica. Abaixo, detalhamos os planos vigentes para novos contratos:
+Plano Basic: Velocidade de 100 Mega. Custo mensal de R$ 89,90. Não inclui serviços de streaming.
+Plano Home Office: Velocidade de 300 Mega. Custo mensal de R$ 129,90. Inclui IP fixo sob demanda.
+Plano Ultra Fiber: Velocidade de 600 Mega. Este é o nosso plano mais popular, custando R$ 199,00 por mês. Oferece instalação prioritária.
+Plano Gamer Pro: Velocidade de 1 Giga. Custo mensal de R$ 299,90. Inclui menor latência (ping reduzido) para servidores de jogos internacionais.
+
+3. Política de Suporte Técnico e Manutenção
+O suporte técnico opera em regime 24/7 via telefone e chat. No entanto, as visitas presenciais seguem regras de categoria:
+Clientes Premium: Aqueles que assinam os planos Ultra Fiber ou Gamer Pro são automaticamente classificados como Clientes Premium. Para este grupo, o suporte técnico para roteadores e configuração de rede interna é totalmente gratuito.
+Clientes Standard: Assinantes dos planos Basic e Home Office pagam uma taxa de visita técnica de R$ 50,00, exceto em casos de rompimento de fibra externa comprovado.
+Troca de Equipamento: Se o roteador apresentar defeito de fabricação em até 12 meses, a substituição é sem custo. Após esse período, o valor do equipamento novo é de R$ 250,00.
+
+4. Expansão de Infraestrutura e Cobertura
+Em 2026, a ConnectMax expandiu sua rede para as zonas rurais da região Sudeste. As cidades de Campinas, São José dos Campos e Ribeirão Preto agora contam com a tecnologia XGS-PON, que permite velocidades simétricas de upload e download. A meta para o segundo semestre é atingir 1 milhão de domicílios conectados.
+
+5. Termos de Cancelamento e Fidelidade
+Todos os contratos residenciais possuem uma cláusula de fidelidade de 12 meses.
+Quebra de contrato: Caso o cliente solicite o cancelamento antes do prazo de 12 meses, será cobrada uma multa proporcional ao tempo restante, calculada com base na média das últimas três faturas.
+Mudança de endereço: A transferência de titularidade ou de localidade não renova o prazo de fidelidade, desde que haja viabilidade técnica no novo endereço. A taxa de mudança de endereço é de R$ 80,00.
+
+6. Promoções e Benefícios Adicionais
+Indique um Amigo: O cliente que indicar um novo assinante ganha 50% de desconto na próxima fatura após a instalação do indicado.
+Pagamento em Dia: Pagamentos via PIX ou Débito Automático recebem um bônus de 5GB de franquia móvel (em parceria com operadoras de telefonia celular).
+
+7. Especificações Técnicas dos Equipamentos
+Os roteadores fornecidos pela ConnectMax são modelos Dual-Band (2.4GHz e 5GHz) com suporte ao padrão Wi-Fi 6. A empresa recomenda que dispositivos de alta performance, como consoles e smart TVs, sejam conectados via cabo de rede Cat6 para garantir a entrega total da banda contratada.
+
+8. Histórico Financeiro Detalhado (Ciclo 2026)
+Para fins de auditoria e consulta do cliente, o sistema de faturamento centralizado da ConnectMax mantém o registro das transações recentes. Abaixo, consta o extrato de lançamentos para contas padrão:
+Fatura de Janeiro/2026: Valor de R$ 250,00. O status atual consta como Pago via compensação bancária em 04/01/2026.
+Fatura de Fevereiro/2026: Valor de R$ 275,50. O status atual consta como Pendente (Aguardando processamento ou dentro do prazo de tolerância).
+Fatura de Março/2026: Valor de R$ 310,00. O status atual consta como Vencida, sujeita às penalidades descritas no item 1 deste manual.
+
+9. Política de Reajuste e Composição de Preços
+Os valores dos planos descritos no item 2 sofrem reajuste anual baseado no IGP-M (Índice Geral de Preços – Mercado).
+O reajuste é aplicado sempre no mês de aniversário da assinatura do contrato.
+A variação de valores entre as faturas de Janeiro e Março (mencionadas no item 8) deve-se à contratação de pacotes de canais de streaming adicionais (Add-ons) e não a um aumento na tarifa base do plano de internet.
+O valor excedente de R$ 34,50 verificado entre fevereiro e março refere-se ao serviço de "Segurança Digital Avançada" ativado por solicitação via aplicativo.
+
+10. Protocolos de Segurança e Acesso
+Para garantir a integridade dos dados, qualquer alteração cadastral exige a confirmação de um token de segurança (MFA) enviado por SMS ao número de celular cadastrado.
+Acesso ao Roteador: A senha padrão de administração dos roteadores instalados é Connect@2026, mas deve ser alterada obrigatoriamente no primeiro acesso pelo técnico ou pelo cliente.
+Privacidade: A ConnectMax não compartilha dados de tráfego com terceiros, seguindo rigorosamente a LGPD (Lei Geral de Proteção de Dados).
+
+11. Registro de Chamados e Suporte (Logs)
+Abaixo estão os últimos protocolos abertos relacionados à infraestrutura da rede:
+Protocolo #99281-A: Relatado por Angelo em 04/05/2026. Reclamação sobre instabilidade no sinal de Wi-Fi durante o período da noite. Técnico designado: Roberto Silva. Status: Concluído.
+Protocolo #99300-B: Relatado por Maria Souza em 08/05/2026. Solicitação de upgrade do plano Basic para o Ultra Fiber. Status: Em processamento.
+
+12. Tabela de Serviços Adicionais (Add-ons)
+Serviço	Descrição	Preço Mensal
+IP Fixo	Endereço IP estático para servidores domésticos	R$ 45,00
+Max Streaming	Acesso ao catálogo de filmes e séries Connect	R$ 29,90
+Backup Nuvem	500GB de armazenamento seguro	R$ 15,00
+Ponto Extra	Instalação de segundo roteador em malha (Mesh)	R$ 25,00
